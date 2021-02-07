@@ -3,3 +3,5 @@ Allow: /index.html
 Disallow: /images/mumtootquote_logo.jpg
 Disallow: /images/mumtootquote_icon.jpg
 Disallow: /quotes.txt
+
+sitemap: https://mumtootquote.github.io/sitemap.xml
