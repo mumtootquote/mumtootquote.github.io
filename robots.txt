@@ -1,7 +1,9 @@
 User-agent: *
 Allow: /index.html
+Allow: /webpages/csq.html
 Disallow: /images/mumtootquote_logo.jpg
 Disallow: /images/mumtootquote_icon.jpg
 Disallow: /quotes.txt
+Disallow: /webpages/csq.txt
 
 sitemap: https://mumtootquote.github.io/sitemap.xml
